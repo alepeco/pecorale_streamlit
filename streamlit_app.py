@@ -29,7 +29,7 @@ def load_dataset():
 
 # Main function to run the Streamlit app
 def main():
-    st.title('Kaggle Dataset Downloader and Explorer')
+    st.title('International football results from 1872 to 2017')
 
     # Set up Kaggle API key
     set_kaggle_api_key()
